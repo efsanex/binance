@@ -549,9 +549,9 @@ namespace binance
             this.label12.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label12.Location = new System.Drawing.Point(25, 185);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(63, 15);
+            this.label12.Size = new System.Drawing.Size(82, 15);
             this.label12.TabIndex = 8;
-            this.label12.Text = "ALIŞ FİYATI";
+            this.label12.Text = "TOPLAM FİYAT";
             // 
             // groupBox11
             // 
@@ -773,9 +773,9 @@ namespace binance
             this.label26.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label26.Location = new System.Drawing.Point(25, 185);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(63, 15);
+            this.label26.Size = new System.Drawing.Size(82, 15);
             this.label26.TabIndex = 8;
-            this.label26.Text = "ALIŞ FİYATI";
+            this.label26.Text = "TOPLAM FİYAT";
             // 
             // groupBox18
             // 
@@ -997,9 +997,9 @@ namespace binance
             this.label40.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label40.Location = new System.Drawing.Point(25, 185);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(63, 15);
+            this.label40.Size = new System.Drawing.Size(82, 15);
             this.label40.TabIndex = 8;
-            this.label40.Text = "ALIŞ FİYATI";
+            this.label40.Text = "TOPLAM FİYAT";
             // 
             // groupBox25
             // 
@@ -1221,9 +1221,9 @@ namespace binance
             this.label54.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label54.Location = new System.Drawing.Point(25, 185);
             this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(63, 15);
+            this.label54.Size = new System.Drawing.Size(82, 15);
             this.label54.TabIndex = 8;
-            this.label54.Text = "ALIŞ FİYATI";
+            this.label54.Text = "TOPLAM FİYAT";
             // 
             // groupBox32
             // 
