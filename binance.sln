@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binance", "binance\binance.csproj", "{46E67932-1F9E-49F6-A7D9-FA26D52DC193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E67932-1F9E-49F6-A7D9-FA26D52DC193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E67932-1F9E-49F6-A7D9-FA26D52DC193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E67932-1F9E-49F6-A7D9-FA26D52DC193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E67932-1F9E-49F6-A7D9-FA26D52DC193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6AF430-86D9-40D2-A8E7-0202926EAA66}
+	EndGlobalSection
+EndGlobal
