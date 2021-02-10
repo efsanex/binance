@@ -636,9 +636,9 @@ namespace binance
             this.label17.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label17.Location = new System.Drawing.Point(25, 105);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(38, 15);
+            this.label17.Size = new System.Drawing.Size(68, 15);
             this.label17.TabIndex = 3;
-            this.label17.Text = "ANLIK";
+            this.label17.Text = "ANLIK FİYAT";
             // 
             // label18
             // 
@@ -646,9 +646,9 @@ namespace binance
             this.label18.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label18.Location = new System.Drawing.Point(25, 65);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(29, 15);
+            this.label18.Size = new System.Drawing.Size(63, 15);
             this.label18.TabIndex = 2;
-            this.label18.Text = "ALIŞ";
+            this.label18.Text = "ALIŞ FİYATI";
             // 
             // coinLbl_2
             // 
@@ -860,9 +860,9 @@ namespace binance
             this.label31.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label31.Location = new System.Drawing.Point(25, 105);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(38, 15);
+            this.label31.Size = new System.Drawing.Size(68, 15);
             this.label31.TabIndex = 3;
-            this.label31.Text = "ANLIK";
+            this.label31.Text = "ANLIK FİYAT";
             // 
             // label32
             // 
@@ -870,9 +870,9 @@ namespace binance
             this.label32.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label32.Location = new System.Drawing.Point(25, 65);
             this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(29, 15);
+            this.label32.Size = new System.Drawing.Size(63, 15);
             this.label32.TabIndex = 2;
-            this.label32.Text = "ALIŞ";
+            this.label32.Text = "ALIŞ FİYATI";
             // 
             // coinLbl_3
             // 
@@ -1084,9 +1084,9 @@ namespace binance
             this.label45.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label45.Location = new System.Drawing.Point(25, 105);
             this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(38, 15);
+            this.label45.Size = new System.Drawing.Size(68, 15);
             this.label45.TabIndex = 3;
-            this.label45.Text = "ANLIK";
+            this.label45.Text = "ANLIK FİYAT";
             // 
             // label46
             // 
@@ -1094,9 +1094,9 @@ namespace binance
             this.label46.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label46.Location = new System.Drawing.Point(25, 65);
             this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(29, 15);
+            this.label46.Size = new System.Drawing.Size(63, 15);
             this.label46.TabIndex = 2;
-            this.label46.Text = "ALIŞ";
+            this.label46.Text = "ALIŞ FİYATI";
             // 
             // coinLbl_4
             // 
@@ -1308,9 +1308,9 @@ namespace binance
             this.label59.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label59.Location = new System.Drawing.Point(25, 105);
             this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(38, 15);
+            this.label59.Size = new System.Drawing.Size(68, 15);
             this.label59.TabIndex = 3;
-            this.label59.Text = "ANLIK";
+            this.label59.Text = "ANLIK FİYAT";
             // 
             // label60
             // 
@@ -1318,9 +1318,9 @@ namespace binance
             this.label60.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label60.Location = new System.Drawing.Point(25, 65);
             this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(29, 15);
+            this.label60.Size = new System.Drawing.Size(63, 15);
             this.label60.TabIndex = 2;
-            this.label60.Text = "ALIŞ";
+            this.label60.Text = "ALIŞ FİYATI";
             // 
             // coinLbl_5
             // 
@@ -1355,9 +1355,9 @@ namespace binance
             this.label8.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label8.Location = new System.Drawing.Point(12, 47);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(29, 15);
+            this.label8.Size = new System.Drawing.Size(63, 15);
             this.label8.TabIndex = 22;
-            this.label8.Text = "ALIŞ";
+            this.label8.Text = "ALIŞ FİYATI";
             // 
             // alisTxt_1
             // 
@@ -1482,9 +1482,9 @@ namespace binance
             this.label16.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label16.Location = new System.Drawing.Point(12, 47);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(29, 15);
+            this.label16.Size = new System.Drawing.Size(63, 15);
             this.label16.TabIndex = 22;
-            this.label16.Text = "ALIŞ";
+            this.label16.Text = "ALIŞ FİYATI";
             // 
             // groupBox38
             // 
@@ -1559,9 +1559,9 @@ namespace binance
             this.label23.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label23.Location = new System.Drawing.Point(12, 47);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(29, 15);
+            this.label23.Size = new System.Drawing.Size(63, 15);
             this.label23.TabIndex = 22;
-            this.label23.Text = "ALIŞ";
+            this.label23.Text = "ALIŞ FİYATI";
             // 
             // groupBox39
             // 
@@ -1636,9 +1636,9 @@ namespace binance
             this.label29.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label29.Location = new System.Drawing.Point(12, 47);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(29, 15);
+            this.label29.Size = new System.Drawing.Size(63, 15);
             this.label29.TabIndex = 22;
-            this.label29.Text = "ALIŞ";
+            this.label29.Text = "ALIŞ FİYATI";
             // 
             // groupBox40
             // 
@@ -1713,9 +1713,9 @@ namespace binance
             this.label35.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label35.Location = new System.Drawing.Point(12, 47);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(29, 15);
+            this.label35.Size = new System.Drawing.Size(63, 15);
             this.label35.TabIndex = 22;
-            this.label35.Text = "ALIŞ";
+            this.label35.Text = "ALIŞ FİYATI";
             // 
             // anaSayfa
             // 
